@@ -1,5 +1,6 @@
 {
   "name": "rs_test_package/src",
+  "version": "1.0.1",
   "description": "description",
   "type": "library",
   "license": "proprietary",
