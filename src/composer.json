@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/src",
+  "description": "description",
+  "type": "libraly",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "rostyslavsylka",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
