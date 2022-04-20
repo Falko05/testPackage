@@ -1,5 +1,5 @@
 {
-  "name": "vendor_name/src",
+  "name": "rs_test_package/src",
   "description": "description",
   "type": "library",
   "license": "proprietary",
