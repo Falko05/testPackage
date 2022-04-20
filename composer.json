@@ -1,7 +1,7 @@
 {
   "name": "vendor_name/src",
   "description": "description",
-  "type": "libraly",
+  "type": "library",
   "license": "proprietary",
   "authors": [
     {
